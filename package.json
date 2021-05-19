@@ -1,0 +1,24 @@
+{
+  "name": "notion-api-test-again",
+  "version": "1.0.0",
+  "description": "another attempt to make notion API work",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krlenell/notion-api-test-again.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krlenell/notion-api-test-again/issues"
+  },
+  "homepage": "https://github.com/krlenell/notion-api-test-again#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "node-fetch": "^2.6.1"
+  }
+}
